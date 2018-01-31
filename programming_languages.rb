@@ -13,6 +13,7 @@ def reformat_languages(languages)
             :type => value,
             :style => [style]
         }
+      end 
       end
     end 
   end 
